@@ -10,5 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 	- Changelog
 	- Readme
 	- Docs directory
-
+	
+2022-2-24
+### Added
+- javafx
+- A license management plugin
+- Gson
 
